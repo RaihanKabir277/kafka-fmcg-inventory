@@ -2,7 +2,7 @@
 
 Kafka + Python project for FMCG & Manufacturing (local market examples: PRAN, Nestlé, ACI, Akij) that streams Sales, Orders, and Inventory Movements into Kafka, computes real-time “Stock vs Sales vs Orders”, generates low-stock alerts, and exposes data via a Flask API + lightweight HTML dashboard.
 
-## Project Structure
+## Project Structure   --> follow the below structure
 
 kafka-fmcg-inventory/
 infra/docker-compose.yml
