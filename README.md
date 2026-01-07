@@ -134,7 +134,7 @@ EXIT;
 cd infra
 docker compose down
 cd ..
-
+![Live Dashboard]()
 Stop running producers/services with Ctrl+C
 deactivate
 
