@@ -1,3 +1,5 @@
+# Output 
+![Live Dashboard](https://github.com/RaihanKabir277/kafka-fmcg-inventory/blob/main/Screenshot%20from%202026-01-07%2014-11-40.png)
 # Kafka-Based Real-Time Inventory & Sales Tracking (FMCG / Manufacturing)
 
 Kafka + Python project for FMCG & Manufacturing (local market examples: PRAN, Nestlé, ACI, Akij) that streams Sales, Orders, and Inventory Movements into Kafka, computes real-time “Stock vs Sales vs Orders”, generates low-stock alerts, and exposes data via a Flask API + lightweight HTML dashboard.
@@ -131,13 +133,13 @@ EXIT;
 
 ## Stop / Clean
 
-cd infra
-docker compose down
-cd ..
-Stop running producers/services with Ctrl+C
-deactivate
+- cd infra
+- docker compose down
+- cd ..
+- Stop running producers/services with Ctrl+C
+- deactivate
 
 <!-- Kafka + Docker Compose reference: [web:165] -->
 
 
-![Live Dashboard](https://github.com/RaihanKabir277/kafka-fmcg-inventory/blob/main/Screenshot%20from%202026-01-07%2014-11-40.png)
+
