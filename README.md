@@ -134,8 +134,10 @@ EXIT;
 cd infra
 docker compose down
 cd ..
-![Live Dashboard](https://github.com/RaihanKabir277/kafka-fmcg-inventory/blob/main/Screenshot%20from%202026-01-07%2014-11-40.png)
 Stop running producers/services with Ctrl+C
 deactivate
 
 <!-- Kafka + Docker Compose reference: [web:165] -->
+
+
+![Live Dashboard](https://github.com/RaihanKabir277/kafka-fmcg-inventory/blob/main/Screenshot%20from%202026-01-07%2014-11-40.png)
